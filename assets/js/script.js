@@ -25,7 +25,7 @@ function err() {
         error = "";
         errror.innerHTML= error ;
         nameget.innerHTML= happy + name + "❤";
-        ageget.innerHTML= happyage + age + "❤";
+        ageget.innerHTML= happyage + age + "سنين" + "❤" ;
         audio.play();
         return true ;
       }
